@@ -36,6 +36,7 @@ function updateContainer (){
     //New Year's Message
     if (result <0) {
         document.getElementById("title").innerHTML = "Happy New Year!"
+        document.getElementById("counter").style.display = "none";
     }
 }
 
