@@ -9,3 +9,7 @@ I wanted to keep practicing my JavaScript coding outside of the coding bootcamp 
 # Countdown completed message
 
 ...and this is what happens when the countdown is equal to Midnight, January 1st - then it will start counting down again.
+
+![New Year Countdown](https://github.com/mdurst365/new_year_countdown/blob/main/assets/Capture2.JPG)
+
+
