@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+	background-position: center;
+    background-image: url("https://raw.githubusercontent.com/mdurst365/new_year_countdown/main/assets/4th_of_July_New_York.jpg");
+}
+
+#container {
+    margin: auto;
+    width: 800px;
+    height: 600px;
+    position: relative;
+}
+
+h1 {
+    margin-top: 200px;
+    font-size: 4.5em;
+}
+
+p {
+	margin: auto;
+    font-size: 2em;
+    float: left;
+    margin-right: 4%;
+}
+
+#smalltext {
+    margin-top: 60px;
+    font-size:1em;
+}

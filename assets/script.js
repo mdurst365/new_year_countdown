@@ -30,10 +30,10 @@ function updateContainer (){
     const d = Math.floor
     (result / 1000 / 60 /60 /24);
 
-    seconds.innerHTML = s +(" seconds");
-    minutes.innerHTML = m +(" minutes");
-    hours.innerHTML = h +(" hours");;
-    days.innerHTML = d + (" days");
+    seconds.innerHTML = s +(" Seconds");
+    minutes.innerHTML = m +(" Minutes");
+    hours.innerHTML = h +(" Hours");;
+    days.innerHTML = d + (" Days");
 
     //New Year's Message
     if (result <0) {
