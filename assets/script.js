@@ -4,13 +4,15 @@ const hours = document.getElementById('hours');
 const days = document.getElementById('days');
 const container = document.getElementById('container');
 
+
 const currentYear = new Date().getFullYear();
 
-//testing New Year Message
+/* this is used for testing completed countdown only
 const timeNextYear = new Date(`January 01 2020 00:00:00`);
-/*
-const timeNextYear = new Date(`January 01 ${currentYear + 1} 00:00:00`);
 */
+
+const timeNextYear = new Date(`January 01 ${currentYear + 1} 00:00:00`);
+
 
 function updateContainer (){
     const timeNow = new Date();
